@@ -118,13 +118,13 @@ Explore customer churn through two reporting pages.
 
 Understand overall churn performance, customer status, and important business trends.
 
-![Churn Summary Dashboard](assets/images/Summary.PNG)
+![Churn Summary Dashboard](churn-prediction-system-main/assets/images/Summary.PNG)
 
 ### 2. 🎯 Churn Prediction
 
 Explore customer-level predictions and identify customers who may need further attention.
 
-![Churn Prediction Dashboard](assets/images/Prediction.PNG)
+![Churn Prediction Dashboard](churn-prediction-system-main/assets/images/Prediction.PNG)
 
 *Dashboard previews will appear once the corresponding screenshots are added to the repository.*
 
